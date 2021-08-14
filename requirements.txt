@@ -1,5 +1,5 @@
 Django
-distribute
+#distribute
 dj-database-url
 psycopg2
 wsgiref
